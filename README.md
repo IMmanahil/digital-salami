@@ -58,7 +58,7 @@ Inspired by a viral LinkedIn post — “From Envelopes to QR Codes: A New Era o
 ![Welcome](./welcome.png)
 
 ### 🔹 Event Selection  
-![Event Selection](./event selection.png)
+![Event Selection](./event_selection.png)
 
 ### 🔹 Login/Register  
 ![Login](./login&register.png)
