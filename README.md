@@ -1,6 +1,9 @@
 Here's an enhanced version of the **Digital Salami MVP README** with more professional detail and structure, providing a deeper insight into the project:
 
 ---
+## 🎬 Welcome Animation
+
+![Welcome Screen](welcome.gif)
 
 # Digital Salami MVP (Minimum Viable Product)
 
