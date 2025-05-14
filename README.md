@@ -1,4 +1,4 @@
-
+no
 ---
 ## 🎬 Welcome Animation
 
@@ -292,15 +292,6 @@ Authorization: Bearer jwt_token_here
 
 ---
 
-## Contributing
-
-We welcome contributions! Here’s how you can help improve the project:
-
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature-name`).
-3. Commit your changes (`git commit -m 'Add new feature'`).
-4. Push the changes to your fork (`git push origin feature-name`).
-5. Open a pull request to merge your changes.
 
 ---
 
