@@ -1,4 +1,3 @@
-Here's an enhanced version of the **Digital Salami MVP README** with more professional detail and structure, providing a deeper insight into the project:
 
 ---
 ## 🎬 Welcome Animation
@@ -307,8 +306,4 @@ We welcome contributions! Here’s how you can help improve the project:
 
 ## License
 
-This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for more details.
-
----
-
-This README now provides a **complete overview** of the Digital Salami MVP project, detailing the flow, API, setup instructions, and future plans. It’s designed to be both informative and professional, giving users and potential contributors a clear understanding of how the project works.
+This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for more details 
